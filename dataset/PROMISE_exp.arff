@@ -43,7 +43,6 @@
 @ATTRIBUTE RequirementText string
 @ATTRIBUTE _class_ {F,A,L,LF,MN,O,PE,SC,SE,US,FT,PO}
 
-%Check and make sure that FT and PO should be there
 
 @DATA
 1,'The system shall refresh the display every 60 seconds.',PE

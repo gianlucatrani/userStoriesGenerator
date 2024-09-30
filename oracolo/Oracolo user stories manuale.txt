@@ -1,0 +1,283 @@
+﻿0        The system shall be easy to use by the Program Administrators/Nursing Staff Members.
+
+
+	AS the Program Administrators/Nursing Staff Members I WANT TO use the system
+easily
+	1        All of the users shall be able to use the system after one day of training.
+
+
+	AS All of the users I WANT TO be able to use the system after one day of training.
+
+
+	2        The system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students.
+
+
+	AS the nursing students I WANT the system to avoid making mistakes while scheduling classes and clinicals for the nursing students.
+	3        The number of mistakes noted by the students shall be decreased by 50% in the first year.
+
+
+	AS students I WANT TO decrease the number of mistakes by 50% in the first year.
+
+
+	4        The system shall be intuitive to the Program Administrators/Nursing Staff Members.
+
+
+	AS the Program Administrators/Nursing Staff Members I WANT be intuitive.
+	5        2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.
+
+
+	AS 2 out of 3 Administrators/Nursing Staff Members I WANT TO  be able to use the system to manage the scheduling of classes and clinicals.
+
+
+	6        The system shall use symbols and words that are naturally understandable by the user community.
+
+
+	AS user community I WANT the system shall use symbols and words that are naturally understandable
+	7        The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.
+
+
+	
+
+	8        Staff members shall be able to complete a set of tasks in a timely manner.
+
+
+	AS staff members I WANT TO be able to complete a set of tasks in a timely manner
+	9        The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.
+
+
+	AS general student
+	10        The system shall be available for use between the hours of 8am and 6pm.
+
+
+	
+
+	11        The system shall achieve 95% up time.
+
+
+	
+
+	12        system shall be able to handle all of the user requests/usage during business hours.
+
+
+	AS user I WANT the system to be able to handle all requests/usage during business hours.
+
+
+	13        The system shall cater to 10 simultaneous users from 9am to 5pm.
+
+
+	
+
+	14        The system shall be capable of processing 100% of nursing students and their classes for the next 10 years.
+
+
+	
+
+	15        The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.
+
+
+	
+
+	16        The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.
+
+
+	
+
+	17        The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.
+
+
+
+
+	AS the Program Administrators/Nursing Staff Members I WANT the system to  be used within the specifications defined.
+	18        The system shall operate within the Windows XP Professional operating system.
+	
+
+	
+
+19        The system shall interface with CampusConnect 92s central server.
+	
+
+	20        The system shall interface with the faculty central server.
+	
+
+	21        The system shall interface with the student master server.
+	
+
+	22        We must be able to interface with any HTML browser.
+	
+
+	23        Only authorized users shall have access to clinical site information.
+	AS authorized user I WANT TO have access to clinical site information
+	24        Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.
+	AS Administrator/Nursing Staff Members I WANT TO have access to clinical site details.
+	25        Only authorized users shall have access to students 92 personal information.
+	AS authorized users I WANT TO  have access to students 92 personal information
+	26        Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students 92 personal information.
+	AS Susan Posluszny and Dr Julie Donalek
+I WANT TO  have access to students 92 personal information.
+	27        Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.
+	AS authorized users I WANT TO have access to the portion of the system that interfaces with CampusConnect.
+
+
+	28        Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.
+	AS  Dr Susan Posluszny and Karen Sysol I WANT TO have access to the final class section scheduling for the system that interfaces with CampusConnect.
+
+
+	29        The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.
+classes to a sequence of classes
+	
+
+	30        The system shall protect private information in accordance with the organization 92s information policy.
+Program of Study offered by the department.
+	
+
+	31        The system shall be built such that it is as secure as possible from malicious interference.
+	
+
+	32        The system shall use the organization 92s standard virus protection software to help monitor threats to itself.
+	
+
+	33        A cohort shall be associated to one Program of Study offered by the department.
+	
+
+	34        Program Administrators and Nursing Staff Members shall be able to add a listing of students to a cohort.
+	AS Program Administrators and Nursing Staff Members I WANT TO BE able to add a listing of students to a cohort.
+
+
+	35        Program Administrators and Nursing Staff Members shall be able to add a single student to a cohort
+	AS Program Administrators and Nursing Staff Members I WANT TO be able to add a single student to a cohort
+
+
+	36        Students added to a cohort shall be eligible for the cohort 92s Program of Study.
+	AS Students I WANT TO be eligible for the cohort 92s Program of Study.
+	37        Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort.
+	AS Program Administrators and Nursing Staff Members I HAVE TO be able to specify the preferred sequence of classes for a given cohort.
+
+
+	38        For each class within a sequence for a cohort Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.
+	AS Program Administrators and Nursing Staff Members I WANT TO be able to specify which quarter that class will be offered.
+
+
+	39        Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes
+	AS Program Administrators and Nursing Staff Members I WANT TO be able to add new classes to a sequence of classes
+
+
+	
+
+40        Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes
+	AS Program Administrators and Nursing Staff Members I WANT TO be able to add clinical classes or sections to a sequence of classes
+	41        Program Administrators and Nursing Staff Members shall be able to add a new cohort to the system identified by start month and year.
+	AS Program Administrators and Nursing Staff Members I WANT TO be able to add a new cohort to the system identified by start month and year.
+
+
+	42        Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.
+	AS Program Administrators and Nursing Staff Members I WANT TO be able to add new classes for the nursing department into the system.
+
+
+	43        A class shall be either a non-clinical class or a clinical class.
+	
+
+	44        A non-clinical class shall specify the course name lecture room requirements and instructor needs.
+	
+
+	45        A clinical class shall specify the course name lecture room requirements clinical site needs lecture instructor needs and clinical lab instructor needs.
+	
+
+	46        Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.
+	AS Program Administrators/Nursing Staff Members I WANT TO create a new Program of Study.
+
+
+	47        A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed.
+	
+
+	48        Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study
+	AS Program Administrators and Nursing Staff Members I WANT TO have the ability to specify which classes are required for a Program of Study
+
+
+	49        The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members 92 planning purposes.
+	AS Program Administrators/Nursing Staff Members I WANT TO be able to display a report of needed classes for a given quarter for all cohorts.
+	50        The report of needed classes shall include (but not be limited to) classes to be offered number of sections needed number of labs needed and room types needed.
+	
+
+	51        Classes for a given cohort shall not conflict with regards to the time and day that they are offered.
+	
+
+	52        Program Administrators and Nursing Staff Members shall be able to add a new clinical site into the system.
+	AS Program Administrators and Nursing Staff Members I WANT TO BE  able to add a new clinical site into the system.
+
+
+	53        Clinical site information shall include (but not be limited to) the name of the site contact person and contact information.
+	
+
+	54        Program Administrators and Nursing Staff Members shall be able to add a new clinical lab section for an existing clinical class into the System.
+	AS Program Administrators and Nursing Staff Members I HAVE TO  be able to add a new clinical lab section for an existing clinical class into the System.
+
+
+	55        A clinical lab section shall include the clinical site name the class instructor day and time of the lab.
+	
+
+	56        Program Administrators and Nursing Staff Members shall be able to add a student who has registered for a clinical class to a clinical lab section for that class.
+	AS Program Administrators and Nursing Staff Members I HAVE TO be able to add a student who has registered for a clinical class to a clinical lab section for that class.
+	57        The system shall allow a Program Administrator or Nursing staff member to remove a student from a clinical lab section.
+	AS Program Administrator or Nursing staff I WANT TO remove a student from a clinical lab section.
+	
+
+58        The system shall allow a Program Administrator/Nursing Staff Member to move a student from one clinical lab section to another clinical lab section corresponding to the same clinical class.
+	AS a Program Administrator/Nursing Staff Member I WANT TO move a student from one clinical lab section to another clinical lab section corresponding to the same clinical class.
+
+
+	59        Program Administrators/Nursing Staff Members shall be able to cancel a clinical lab section only if there are no students registered for that clinical lab section.
+	AS Program Administrators/Nursing Staff Members I WANT TO be able to cancel a clinical lab section only if there are no students registered for that clinical lab section
+	60        A Program Administrator/Nursing Staff Member shall be able to add a new nursing student to the system.
+	AS A Program Administrator/Nursing Staff Member I WANT TO be able to add a new nursing student to the system.
+
+
+	61        A staff member shall have the ability to manage the progress of a part time student which includes modifying their sequence of classes and timeline of classes.
+	AS staff member I WANT TO have the ability to manage the progress of a part time student which includes modifying their sequence of classes and timeline of classes.
+
+
+	62        The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.
+	AS students I WANT the system to be able to display a printable summary for individual cohorts 
+	63        The system shall be able to display a printable summary for individual clinical sites which will include information on labs being held at that site for the given quarter (Clinical site general information on labs held at that location dates and times of all labs held there).
+	
+
+	64        The system shall be able to display a printable summary for individual clinical labs which will include (but not be limited to) class name class number lab section listing of students enrolled instructor day(s) time and location.
+	
+
+	65        The system shall be able to display a printable summary for individual nursing students which will include (but not be limited to) student name student ID admission date classes credits GPA and the cohort that the student is enrolled in.
+	
+
+	66        The system shall be able to display a printable summary of the system log.
+	
+
+	67        The system shall contain contact information (e-mail and phone number) for all people relevant to the system including (but not limited to) staff members students lecture instructors clinical lab instructors and clinical site administrators.
+	AS staff members students I WANT the system to  contain contact information (e-mail and phone number) for all people
+	68        The system will use the stored e-mail addresses as a primary means of communicating information to affected parties.
+	
+
+	69        The system will notify affected parties for routine communication purposes including but not limited to informing students of upcoming offered classes (timeline) and what their schedule will be/shall be.
+	AS students I WANT the system notify upcoming offered classes (timeline) and what their schedule will be/shall be 
+	70        The system will notify affected parties when changes occur affecting clinicals including but not limited to clinical section capacity changes and clinical section cancellations.
+	
+
+	71        The system will notify affected parties when changes occur affecting classes including but not limited to class cancellations class section detail changes and changes to class offerings for a given quarter.
+	
+
+	 72        The system will notify affected parties when changes occur affecting cohorts including but not limited to changes to the sequence for a cohort 92s program of study and changes to a given week 92s schedule (lab cancelled this week due to instructor illness).
+	
+
+	73        The system will notify affected parties when changes occur affecting specific students including but not limited to changing a student 92s status from full time to part time and moving a student to a different clinical section.
+	AS students  I WANT the system notify when changes occur  
+	74        Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts including cohort identifier program of study preferred sequence of classes and quarters that a cohort will be taking specific classes.
+	AS Program Administrators/Nursing Staff Members I WANT TO have the ability to modify information relating to cohorts including cohort identifier program of study preferred sequence of classes and quarters that a cohort will be taking specific classes
+	75        Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Program of Study within the Nursing Department including the Program of study name and required classes for that Program of Study.
+	AS Program Administrators/Nursing Staff I WANT TO have the ability to modify information relating to a Program of Study within the Nursing Department including the Program of study name and required classes for that Program of Study
+	76        Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Site including the clinical site name site contact person contact information and address.
+	AS Program Administrators/Nursing Staff Members I WANT TO have the ability to modify information relating to a Clinical Site including the clinical site name site contact person contact information and address.
+
+
+	77        Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Lab Section including the clinical site name the department/section for the lab the class instructor day and time of lab and contact information.
+	AS         Program Administrators/Nursing Staff Members  I WANT TO the ability to modify information relating to a Clinical Lab Section including the clinical site name the department/section for the lab the class instructor day and time of lab and contact information.
+
+
+	78        Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Nursing Student including student ID student name phone number e-mail status (full time or part time) and program of study.
+	AS Program Administrators/Nursing Staff Members I WANT TO have the ability to modify information relating to a Nursing Student including student ID student name phone number e-mail status (full time or part time) and program of study.

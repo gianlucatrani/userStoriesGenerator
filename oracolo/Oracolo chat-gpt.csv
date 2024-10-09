@@ -1,0 +1,47 @@
+Use Case Name
+Associate a cohort with a Program of Study
+Add a listing of students to a cohort
+Add a single student to a cohort
+Ensure students added to a cohort are eligible for the Program of Study
+Specify the preferred sequence of classes for a cohort
+Specify which quarter a class will be offered within a cohort
+Add new classes to a sequence of classes
+Add clinical classes or sections to a sequence of classes
+Add a new cohort to the system identified by start month and year
+Add new classes for the nursing department into the system
+Class classification as either non-clinical or clinical
+Specify course name, lecture room requirements, and instructor needs for a non-clinical class
+Specify course name, lecture room requirements, clinical site needs, and instructor needs for a clinical class
+Create a new Program of Study
+Define program name and listing of required classes for a Program of Study
+Specify which classes are required for a Program of Study
+Display a report of needed classes for a given quarter for planning purposes
+Generate a report of needed classes, including classes offered, number of sections, labs needed, and room types
+Ensure classes for a cohort do not conflict with time and day offerings
+Add a new clinical site into the system
+Include contact information for the clinical site
+Add a new clinical lab section for an existing clinical class
+Specify details of a clinical lab section
+Add a registered student to a clinical lab section
+Remove a student from a clinical lab section
+Move a student from one clinical lab section to another for the same class
+Cancel a clinical lab section if no students are registered
+Add a new nursing student to the system
+Manage the progress of a part-time student, modifying their sequence and timeline of classes
+Display a printable summary for individual cohorts
+Display a printable summary for individual clinical sites
+Display a printable summary for individual clinical labs
+Display a printable summary for individual nursing students
+Display a printable summary of the system log
+Include contact information for all relevant people in the system
+Use stored email addresses as a primary means of communication
+Notify affected parties of routine communications
+Notify affected parties when changes occur affecting clinicals
+Notify affected parties when changes occur affecting classes
+Notify affected parties when changes occur affecting cohorts
+Notify affected parties when changes occur affecting specific students
+Modify information relating to cohorts
+Modify information relating to a Program of Study
+Modify information relating to a Clinical Site
+Modify information relating to a Clinical Lab Section
+Modify information relating to a Nursing Student

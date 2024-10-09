@@ -1,0 +1,180 @@
+
+Use Case 102: Add a Listing of Students to a Cohort
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators and Nursing Staff Members add a batch of students to a specified cohort.
+
+Use Case 103: Add a Single Student to a Cohort
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators and Nursing Staff Members add an individual student to a specified cohort.
+
+Use Case 104: Verify Student Eligibility for Program of Study
+- Actors: System
+- Description: The system verifies that a student added to a cohort is eligible for the cohort's associated Program of Study.
+
+Use Case 105: Specify Sequence of Classes for a Cohort
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators and Nursing Staff Members define the preferred sequence of classes for a given cohort.
+
+Use Case 106: Assign Classes to Quarters for a Cohort
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators and Nursing Staff Members assign specific classes to quarters for a given cohort.
+
+Use Case 107: Add New Classes to a Sequence
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators and Nursing Staff Members add new classes to an existing sequence for a cohort.
+
+Use Case 108: Add Clinical Classes or Sections to a Sequence
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators and Nursing Staff Members add clinical classes or sections to a cohort's sequence.
+
+Use Case 109: Add a New Cohort
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators and Nursing Staff Members add a new cohort, specifying the start month and year.
+
+Use Case 110: Add New Classes to the System
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators and Nursing Staff Members add new classes for the nursing department into the system.
+
+Use Case 111: Define Class Types
+- Actors: System
+- Description: A class is defined as either a non-clinical or a clinical class.
+
+Use Case 112: Specify Requirements for Non-Clinical Classes
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Specify the course name, lecture room requirements, and instructor needs for a non-clinical class.
+
+Use Case 113: Specify Requirements for Clinical Classes
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Specify course name, lecture room requirements, clinical site needs, lecture instructor needs, and clinical lab instructor needs for a clinical class.
+
+Use Case 114: Create a New Program of Study
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators/Nursing Staff Members create a new Program of Study.
+
+Use Case 115: Define a Program of Study
+- Actors: Program Administrators, Nursing Staff Members
+- Description: A Program of Study is defined with a program name and a list of required classes.
+
+Use Case 116: Specify Required Classes for a Program of Study
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators/Nursing Staff Members specify which classes are required for a Program of Study.
+
+Use Case 117: Generate Report of Needed Classes
+- Actors: System, Program Administrators, Nursing Staff Members
+- Description: The system generates a report of needed classes for a given quarter for all cohorts.
+
+Use Case 118: Include Details in Class Report
+- Actors: System
+- Description: The system includes details like classes to be offered, number of sections, labs needed, and room types in the report.
+
+Use Case 119: Prevent Class Schedule Conflicts
+- Actors: System
+- Description: Ensure that classes for a given cohort do not have time and day conflicts.
+
+Use Case 120: Add a New Clinical Site
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators/Nursing Staff Members add a new clinical site.
+
+Use Case 121: Store Clinical Site Information
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Include the name of the clinical site, contact person, and contact information.
+
+Use Case 122: Add a Clinical Lab Section
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Add a new clinical lab section for an existing clinical class.
+
+Use Case 123: Specify Details for a Clinical Lab Section
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Specify clinical site name, instructor, and schedule for a clinical lab section.
+
+Use Case 124: Register Student for Clinical Lab Section
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Add a student registered for a clinical class to a clinical lab section.
+
+Use Case 125: Remove a Student from a Clinical Lab Section
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Remove a student from a clinical lab section.
+
+Use Case 126: Move a Student between Clinical Lab Sections
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Move a student from one clinical lab section to another.
+
+Use Case 127: Cancel a Clinical Lab Section
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Cancel a clinical lab section if no students are registered.
+
+Use Case 128: Add a New Nursing Student to the System
+- Actors: Program Administrators, Nursing Staff Members
+- Description: A Program Administrator or Nursing Staff Member adds a new nursing student into the system.
+
+Use Case 129: Manage Progress of a Part-Time Student
+- Actors: Staff Member
+- Description: A staff member manages the progress of a part-time student, including modifying their sequence of classes and timeline.
+
+Use Case 130: Display Printable Summary for Individual Cohorts
+- Actors: System
+- Description: The system generates a printable summary for individual cohorts, including students enrolled, the Program of Study, sequence of classes, cohort progress, and timeline of completion.
+
+Use Case 131: Display Printable Summary for Individual Clinical Sites
+- Actors: System
+- Description: The system generates a printable summary for individual clinical sites, including information on labs held at that site, lab details, and schedules for a given quarter.
+
+Use Case 132: Display Printable Summary for Individual Clinical Labs
+- Actors: System
+- Description: The system generates a printable summary for individual clinical labs, including class name, class number, lab section, enrolled students, instructor, days, time, and location.
+
+Use Case 133: Display Printable Summary for Individual Nursing Students
+- Actors: System
+- Description: The system generates a printable summary for an individual nursing student, including details such as name, student ID, admission date, classes, credits, GPA, and cohort.
+
+Use Case 134: Display Printable Summary of System Log
+- Actors: System
+- Description: The system generates a printable summary of the system log.
+
+Use Case 135: Store Contact Information
+- Actors: System
+- Description: The system stores contact information, including email and phone number, for all relevant people, such as staff, students, instructors, and clinical site administrators.
+
+Use Case 136: Use Email as Primary Communication Means
+- Actors: System
+- Description: The system uses stored email addresses as the primary means of communication with relevant parties.
+
+Use Case 137: Notify Parties of Upcoming Classes
+- Actors: System
+- Description: The system notifies relevant parties about upcoming classes, schedules, and timelines.
+
+Use Case 138: Notify Parties of Clinical Changes
+- Actors: System
+- Description: The system notifies affected parties when there are changes related to clinicals, such as capacity changes or cancellations.
+
+Use Case 139: Notify Parties of Class Changes
+- Actors: System
+- Description: The system notifies relevant parties when there are changes related to classes, such as cancellations or changes to class offerings.
+
+Use Case 140: Notify Parties of Cohort Changes
+- Actors: System
+- Description: The system notifies relevant parties when changes occur in a cohort’s sequence of classes or weekly schedule.
+
+Use Case 141: Notify Parties of Student-Specific Changes
+- Actors: System
+- Description: The system notifies relevant parties of changes affecting specific students, such as a change in status from full-time to part-time or a move to a different clinical section.
+
+Use Case 142: Modify Cohort Information
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators or Nursing Staff Members modify information related to cohorts, such as cohort identifier, program of study, sequence of classes, and quarters.
+
+Use Case 143: Modify Program of Study Information
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators or Nursing Staff Members modify information related to a Program of Study, including the program name and required classes.
+
+Use Case 144: Modify Clinical Site Information
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators or Nursing Staff Members modify information related to a clinical site, such as the site name, contact person, contact information, and address.
+
+Use Case 145: Modify Clinical Lab Section Information
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators or Nursing Staff Members modify information related to a clinical lab section, including the clinical site name, department/section, instructor, day, time, and contact details.
+
+Use Case 146: Modify Nursing Student Information
+- Actors: Program Administrators, Nursing Staff Members
+- Description: Program Administrators or Nursing Staff Members modify information for a nursing student, such as student ID, name, phone number, email, status (full-time or part-time), and program of study.

@@ -19,7 +19,7 @@ Req ID,Primary Actor,Secondary Actor,Use Case,Description
 118,"Program Administrators/Nursing Staff",None,"Display details of needed classes","The report includes information on classes, number of sections, labs, and room types needed for a quarter."
 119,"Program Administrators/Nursing Staff",None,"Avoid class scheduling conflicts","Classes for a cohort should not have conflicting schedules (i.e., overlap in time or day)."
 120,"Program Administrators/Nursing Staff",None,"Add new clinical site","Program Administrators and Nursing Staff Members can add new clinical sites to the system."
-121,"Clinical Site Administrators","Program Administrators/Nursing Staff","Specify clinical site information","Clinical Site Administrators provide site details, including name, contact person, and contact information."
+121,"Program Administrators/Nursing Staff","Clinical Site Administrators","Specify clinical site information","Clinical Site Administrators provide site details, including name, contact person, and contact information."
 122,"Program Administrators/Nursing Staff",None,"Add new clinical lab section","Program Administrators and Nursing Staff Members can add a new clinical lab section for an existing clinical class."
 123,"Instructors","Program Administrators/Nursing Staff","Define clinical lab section","Instructors specify the clinical lab section details, including site name, class instructor, day, and time of lab."
 124,"Program Administrators/Nursing Staff","Students","Add student to clinical lab section","Program Administrators and Nursing Staff Members can assign students registered for a clinical class to a clinical lab section."

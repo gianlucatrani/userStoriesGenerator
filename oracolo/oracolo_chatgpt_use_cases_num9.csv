@@ -1,0 +1,4 @@
+Req ID,Primary Actor,Secondary Actor,Use Case,Description
+472,Vendor,None,Verify invalid lead,The UC describes the functionality that allows the Vendor to verify an invalid lead.
+473,Vendor,None,Submit credit validation record,The UC describes the functionality that allows the Vendor to submit a credit validation record to be applied to the enterprise billing system.
+

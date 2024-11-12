@@ -1,0 +1,9 @@
+Req ID,Primary Actor,Secondary Actor,Use Case,Description
+965,"Microsoft Corporation",,"should be able to manage user accounts within the system","The UC describe the functionality that allows microsoft corporation should be able to manage user accounts within the system."
+966,"Microsoft Corporation",,"should be able to submit requests for technical support through the systems support portal.","The UC describe the functionality that allows microsoft corporation should be able to submit requests for technical support through the systems support portal"
+968,"Amazon Logistics staff",,"should be able to update patient records after consultations.","The UC describe the functionality that allows 
+Amazon Logistics staff should be able to update patient records after consultations."
+969,"Amazon Logistics staff",,"should have the ability to track shipment statuses for all deliveries in real time.","The UC describe the functionality that allows Amazon Logistics staff should have the ability to track shipment statuses for all deliveries in real time."
+971,"Harvard University professors",,"should be able to upload course materials for students to access online.","The UC describe the functionality that allows Harvard University professors should be able to upload course materials for students to access online."
+972,"Google employees",,"must be able to modify their personal information in the internal HR portal.","The UC describe the functionality that allows Google employees must be able to modify their personal information in the internal HR portal."
+973,Harvard University,,"should be able to assign tasks to team members within the project management system.","The UC describe the functionality that allows Harvard University should be able to assign tasks to team members within the project management system."

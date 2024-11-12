@@ -1010,13 +1010,13 @@
 48,'It should not take more than 90 seconds for a registered user to place an order.',US
 48,'The system should be easy enough to maintain that someone else could do it with a manual and a few hours training.',MN
 48,'The system should be portable to various operating environments.',PO
-49,'Angelina Jolie, as the administrator, should be able to manage user accounts within the system.',F
-49,'Tom Hanks should be able to submit requests for technical support through the systems support portal.',F
+49,'Microsoft Corporation, as the administrator, should be able to manage user accounts within the system.',F
+49,'Microsoft Corporation should be able to submit requests for technical support through the systems support portal.',F
 49,'Microsoft Corporation needs access to quarterly sales reports to evaluate business performance.',F
-49,'Dr. Meredith Grey should be able to update patient records after consultations.',F
+49,'Amazon Logistics staff should be able to update patient records after consultations.',F
 49,'Amazon Logistics staff should have the ability to track shipment statuses for all deliveries in real time.',F
-49,'James Bond, as a security officer, should be able to review surveillance logs for any security incidents.',F
+49,'Amazon Logistics staff, as a security officer, should be able to review surveillance logs for any security incidents.',F
 49,'Harvard University professors should be able to upload course materials for students to access online.',F
 49,'Google employees must be able to modify their personal information in the internal HR portal.',F
-49,'Emma Watson, as a team leader, should be able to assign tasks to team members within the project management system.',F
-49,'Tesla engineers should have access to design documents to facilitate updates in the development process.',F
+49,'Harvard University , as a team leader, should be able to assign tasks to team members within the project management system.',F
+49,'Google employees should have access to design documents to facilitate updates in the development process.',F
